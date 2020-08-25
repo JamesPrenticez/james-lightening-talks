@@ -1,0 +1,26 @@
+{
+  "name": "james-lightening-talks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesPrenticez/james-lightening-talks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesPrenticez/james-lightening-talks/issues"
+  },
+  "homepage": "https://github.com/JamesPrenticez/james-lightening-talks#readme",
+  "dependencies": {
+    "3": "^2.1.0",
+    "knex": "^0.21.5",
+    "sqlite": "^4.0.14",
+    "sqlite3": "^5.0.0"
+  }
+}
