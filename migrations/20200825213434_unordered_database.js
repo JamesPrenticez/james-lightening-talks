@@ -2,7 +2,7 @@ exports.up = function(knex) {
     return knex.schema.createTable('unordered_database', table => {
         table.integer('id')
         table.string('name')
-        table.integer('favourite_number').primary()
+        table.integer('favourite_number')
     })
   
 };
